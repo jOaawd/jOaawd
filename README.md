@@ -2,7 +2,7 @@
 My name is jacob and I code, heres one of my <a href="https://ether.fmode.repl.co/">website</a> 👽
 
 
-
+<h2>Ether site will be paused, until I find out how to add apps</h2>
 
 
 
