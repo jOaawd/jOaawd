@@ -1,8 +1,8 @@
 ### Hi there 👋
-My name is jacob and I code, heres one of my <a href="https://ether.fmode.repl.co/">website</a> 👽
+My name is Jaycuh and I code.
 
 
-<h2>Ether site will be paused, until I find out how to add apps</h2>
+<h2>Ether Site project has been closed, if you want the code its free, no need to credit. Code is in my res.</h2>
 
 
 
