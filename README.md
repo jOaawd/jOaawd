@@ -2,7 +2,7 @@
 My name is Jaycuh and I code.
 
 
-<h2>Ether Site project has been closed, if you want the code its free, no need to credit. Code is in my res.</h2>
+<h2>Ether Site project has been closed, if you want the code its free, no need to credit. Repository is pinned for the code </h2>
 
 
 
